@@ -1,4 +1,4 @@
-- 👋 HHola mi nombre es Radi
+- 👋 Hola mi nombre es Radi
 - 🌱 Ahorita me encuentro trabajando en FabricMC y aprendiendo poco a poco
 - 💞️ Busco trabajar con el equipo de EufoniaStudio en algun momento y ayudarles a crear magia
 - 📫 Puedes contactarme por twitter en @RadicolaGamer
