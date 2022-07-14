@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Mi nombre es Radi, soy desarrollador en Java y me encuentro aprendiendo AWS</div>  
   
 
@@ -79,5 +74,6 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=radigamer&&style=flat-square" align="center" />
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </div>  
   
