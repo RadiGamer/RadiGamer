@@ -74,6 +74,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=radigamer&&style=flat-square" align="center" />
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</div>  
-  
+</div>        
