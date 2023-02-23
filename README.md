@@ -1,10 +1,7 @@
 ### <div align="center">Mi nombre es Radi, soy desarrollador en Java y me encuentro aprendiendo AWS</div>  
   
-
-- 🔭Me encuentro buscando trabajo como desarrollador en FABRIC  
   
-
-- 🌱Ahora mismo me encuentro aprendiendo FABRIC en Java  
+- 🌱Ahora mismo me encuentro aprendiendo FABRIC en Java, PaperMC y AWS  
   
 
 <br/>  
